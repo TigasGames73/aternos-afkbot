@@ -1,7 +1,7 @@
 {
-	"host": "Philipou12.aternos.me",
-	"port": "25565",
-	"username": "Philipou Aternos 24/7 Bot",
+	"host": "creativesquad4enxada.aternos.me",
+	"port": "11517",
+	"username": "CRATIVEBOT",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
